@@ -1,0 +1,14 @@
+{
+  "name": "cron",
+  "version": "1.1.0",
+  "description": "Node.js wrapper the API",
+  "main": "cron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Whizzy",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^8.3.1"
+  }
+}
